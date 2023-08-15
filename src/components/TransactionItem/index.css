@@ -1,0 +1,22 @@
+.history-item {
+  width: 90%;
+  border: 1px solid #cbd5e1;
+  display: flex;
+  list-style-type: none;
+  margin-top: 0px;
+}
+.history-field {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #1e293b;
+  margin-left: 10px;
+  width: 100px;
+}
+.delete-btn {
+  width: 20px;
+  height: 20px;
+}
+.delete-btn-bg {
+  border-width: 0px;
+  background-color: transparent;
+}

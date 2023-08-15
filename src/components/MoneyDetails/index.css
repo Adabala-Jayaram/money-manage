@@ -1,0 +1,35 @@
+.money-details-item {
+  width: 170px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 8px;
+  padding: 6px;
+}
+.money-details-item-icon {
+  width: 46px;
+  height: 46px;
+}
+.money-card-title {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 12px;
+}
+.money-card-description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #1e293b;
+}
+.balance-money {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+.income-money {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+.expense-money {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
